@@ -20,7 +20,7 @@ Lapis is a simple image pixelator created in C.
 
 4. **Add Lapis to your PATH**:
    ```bash
-   mv ~/Downloads/lapis-VERSION /usr/local/bin/lapis && chmod +x /usr/local/bin/lapis
+   mv ~/Downloads/lapis /usr/local/bin/lapis && chmod +x /usr/local/bin/lapis
    ```
 
 5. **You can now use Lapis!**
